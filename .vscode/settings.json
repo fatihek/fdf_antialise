@@ -1,0 +1,26 @@
+{
+	"files.associations": {
+		"fdf.h": "c",
+		"ft_printf.h": "c",
+		"strings.h": "c",
+		"stddef.h": "c",
+		"istream": "c",
+		"locale": "c",
+		"unistd.h": "c",
+		"cstdlib": "c",
+		"stdlib.h": "c",
+		"math.h": "c",
+		"chrono": "c",
+		"mlx.h": "c",
+		"safealloc.h": "c",
+		"wait.h": "c",
+		"fcntl.h": "c",
+		"errno.h": "c",
+		"get_next_line.h": "c",
+		"cmath": "c",
+		"_xlocale.h": "c",
+		"_wchar_t.h": "c",
+		"stdio.h": "c",
+		"algorithm": "c"
+	}
+}
